@@ -1,5 +1,5 @@
 # WanderLust – Full Stack Hotel Booking Web Application
-
+(In-progress)
 WanderLust is a full-stack hotel booking platform inspired by Airbnb.  
 It allows users to explore listings, create properties, leave reviews, and manage bookings with authentication.
 
